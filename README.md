@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/davinceey/fmProj13]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://davinceey.github.io/fmProj13/]
 
 ## My process
 I designed using a "Mobile-first" workflow by ensuring the proper HTML markup was used. Next, I moved into CSS to enhance the layout of the project. One notable area that was quite dynamic in CSS was the area where I got to use the `input[type=text]:not(:focus):invalid`. This helped to place some properties in at that condition.
