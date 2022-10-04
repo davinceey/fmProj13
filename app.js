@@ -25,8 +25,10 @@ for (let inputDiv of inputDivs) {
         errorPar.innerText = `Looks like this is not an email`;
         input.style.color = "hsl(0, 100%, 74%)";
         input.style.fontWeight = "600";
+        input.style.placeholderColor = "red"
         errorMessage(errorPar);
     }
+    input.placeholder = "";
     input.onfocus = ()=>{
         errorPar.innerText = "";
     }
